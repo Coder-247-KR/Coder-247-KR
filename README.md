@@ -39,7 +39,7 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/krathore2">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/Coder-247-KR">
