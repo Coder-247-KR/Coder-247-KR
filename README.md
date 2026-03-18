@@ -8,7 +8,7 @@
 - 🌐 Building modern web applications  
 - ⚡ Interested in scalable backend systems  
 - 🌱 Currently improving my MERN stack skills  
-- 📫 Reach me at: **kanishk.rathore.1971@gmail.com**
+- 📫 Reach me at: **rathorekanishka891@gmail.com**
 
 ---
 
